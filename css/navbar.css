@@ -1,0 +1,25 @@
+.color-navbar{
+    color: #000000;
+    background-color: #000000;
+}
+
+.color-font-navbar{
+    color: white;
+}
+
+.website-title-navbar{
+    font-style: italic;
+}
+
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 10px;
+}
+
+.help{
+    align-items: center;
+}
